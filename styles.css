@@ -1,5 +1,8 @@
-.nav-opa {
-opacity: 80%;
+
+nav {
+opacity: 90%;
+font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
 }
 .masthead {
     position: relative;
@@ -14,8 +17,17 @@ opacity: 80%;
     background-size: cover;
   }
   .masthead h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
     font-size: 4rem;
-    line-height: 2.5rem;
-    
+    line-height: 2.5rem; 
   }
+
+  .masthead h3 {
+    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    line-height: 2.5rem; 
+    margin-top: 20px;
+  }
+  ul {
+    list-style-type: none;
+}
