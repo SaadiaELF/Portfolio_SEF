@@ -17,135 +17,156 @@ font-weight: bold;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-  }
-  .masthead h1 {
+}
+.masthead h1 {
     font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
     font-size: 4rem;
     line-height: 2.5rem; 
-  }
-
-  .masthead h3 {
+}
+.masthead h3 {
     font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
     line-height: 2.5rem; 
     margin-top: 20px;
-  }
-
-  .social-icons {
+}
+.social-icons {
     list-style-type: none;
     margin: 0;
     padding: 0;
-   }  
+}  
 
-   .social-icons li {
+.social-icons li {
     display: inline-block;
     padding: 10px 30px;
-  }
-   .fab {
+}
+.fab {
     color :black;
-  }
-  .about-section {
+}
+
+@media (max-width: 768px) {
+    .masthead h1 {
+      font-size: 2.5rem;
+    }
+    .masthead h3 {
+        font-size: 1.5rem;
+    }
+}
+.about-section {
     padding-top: 10rem;
-  }
-  .about-section h1 {
+}
+.about-section h1 {
     font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     line-height: 1.5rem; 
-  }
-  .about-section h2 {
+}
+.about-section h2 {
     font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
     line-height: 1.5rem; 
 }
-  .about-section p {
+.about-section p {
     font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
     font-size: 1.2rem;
     line-height: 1.5rem; 
 }
+  .my-img {
+    width: 30%;
+    height: auto;
+    margin: 20px;
+}
+.img-thumbnail {
+    background-color: #cacaca;
+}
 
-    .my-img {
-        width: 30%;
-        height: auto;
-        margin: 20px;
-  }
-
-    .img-thumbnail {
-        background-color: #cacaca;
-  }
-
-  .portfolio-section {
+@media (max-width: 768px) {
+    .about-section h1 {
+      font-size: 2rem;
+    }
+    .about-section h2 {
+        font-size: 1.5rem;
+    }
+    .about-section p {
+        font-size: 1rem;
+    }
+}
+.portfolio-section {
     padding: 10rem 0;
-  }
-  .portfolio-section h1 {
+}
+.portfolio-section h1 {
     font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     line-height: 1.5rem; 
-      }
-  
-  .portfolio-section .featured-text {
+}
+.portfolio-section .featured-text {
     font-family: 'Fira Sans Condensed', sans-serif,  Georgia, 'Times New Roman', Times, serif;
     padding: 2rem;
     padding-bottom: 0.5rem;
     padding-top: 0.5rem;
-    
-  }
-  .img-fluid {
+}
+.img-fluid {
     max-width: 100%;
     height: auto;
-  }
-
-  .links-btns ul {
+}
+.links-btns ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-   }  
-
-   .links-btns li {
+}  
+.links-btns li {
     display: inline-block;
-  }
+}
 
-  .btn {
+.btn {
     width: 90px;
-  }
-  .project-text {
+}
+.project-text {
     font-family: 'Fira Sans Condensed', sans-serif, Georgia, 'Times New Roman', Times, serif;
     padding: 3rem;
     font-size: 90%;
-  }
-  .project-text p {
+}
+.project-text p {
     font-size: 1rem;
-  }
-  .project-text hr {
+}
+.project-text hr {
     border-color: #a16469;
     border-width: 0.25rem;
     width: 30%;
-  }
-  .contact-section {
+}
+@media (max-width: 768px) {
+    .portfolio-section h1 {
+      font-size: 2rem;
+    }
+    .btn {
+      font-size: 0.7rem;
+      width: 70px;
+    }
+}
+.contact-section {
     padding-top: 15rem;
     padding-bottom:5rem;
-  }
-  .contact-section h1 {
+}
+.contact-section h1 {
     font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     line-height: 1.5rem; 
-      }
-  .contact-section .card {
+}
+.contact-section .card {
     border: 0;
     border-bottom: 0.25rem solid #a16469;
-  }
-
-  .contact-section .card h4 {
+}
+.contact-section .card h4 {
     font-size: 1rem;
     font-family: 'Fira Sans Condensed', sans-serif, Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     letter-spacing: 0.15rem;
-  }
-  .contact-section .card hr {
+}
+.contact-section .card hr {
     border-color:  #a16469;
     border-width: 0.25rem;
     width: 3rem;
-  }
-  
-  .footer {
-    padding: 5rem 0;
-  }
+}
+@media (max-width: 768px) {
+    .contact-section h1 {
+      font-size: 2rem;
+    }
+}
