@@ -73,7 +73,7 @@ font-weight: bold;
     padding: 10rem 0;
   }
   .portfolio-section .featured-text {
-    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Fira Sans Condensed', sans-serif,  Georgia, 'Times New Roman', Times, serif;
     padding: 2rem;
     padding-bottom: 0.5rem;
     padding-top: 0.5rem;
@@ -98,9 +98,12 @@ font-weight: bold;
     width: 90px;
   }
   .project-text {
-    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Fira Sans Condensed', sans-serif, Georgia, 'Times New Roman', Times, serif;
     padding: 3rem;
     font-size: 90%;
+  }
+  .project-text p {
+    font-size: 1rem;
   }
   .project-text hr {
     border-color: #a16469;
