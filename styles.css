@@ -44,13 +44,16 @@ font-weight: bold;
    .fab {
        color :black;
   }
-    #about h1 {
+  .about-section {
+    padding-top: 10rem;
+  }
+  .about-section h1 {
         font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
         font-size: 3rem;
         line-height: 1.5rem; 
   }
 
-  #about p {
+  .about-section p {
     font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
     font-size: 1.2rem;
     line-height: 1.5rem; 
@@ -65,3 +68,34 @@ font-weight: bold;
     .img-thumbnail {
         background-color: #cacaca;
   }
+
+  .portfolio-section {
+    padding: 10rem 0;
+  }
+  .portfolio-section .featured-text {
+    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    padding: 2rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .links-btns ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }  
+
+   .links-btns li {
+    display: inline-block;
+  }
+
+  .btn {
+    width: 90px;
+  }
+
+ 
