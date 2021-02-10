@@ -97,5 +97,13 @@ font-weight: bold;
   .btn {
     width: 90px;
   }
-
- 
+  .project-text {
+    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    padding: 3rem;
+    font-size: 90%;
+  }
+  .project-text hr {
+    border-color: #a16469;
+    border-width: 0.25rem;
+    width: 30%;
+  }
