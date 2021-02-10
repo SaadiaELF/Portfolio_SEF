@@ -1,4 +1,6 @@
-
+body {
+    background-color: #ecedf1;
+}
 nav {
 opacity: 90%;
 font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
@@ -41,4 +43,25 @@ font-weight: bold;
   }
    .fab {
        color :black;
-   }
+  }
+    #about h1 {
+        font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
+        font-size: 3rem;
+        line-height: 1.5rem; 
+  }
+
+  #about p {
+    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    line-height: 1.5rem; 
+}
+
+    .my-img {
+        width: 30%;
+        height: auto;
+        margin: 20px;
+  }
+
+    .img-thumbnail {
+        background-color: #cacaca;
+  }
