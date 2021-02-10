@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 body {
     background-color: #ecedf1;
 }
@@ -142,7 +145,7 @@ font-weight: bold;
     }
 }
 .contact-section {
-    padding-top: 15rem;
+    padding-top: 10rem;
     padding-bottom:5rem;
 }
 .contact-section h1 {
