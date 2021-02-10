@@ -42,17 +42,21 @@ font-weight: bold;
     padding: 10px 30px;
   }
    .fab {
-       color :black;
+    color :black;
   }
   .about-section {
     padding-top: 10rem;
   }
   .about-section h1 {
-        font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
-        font-size: 3rem;
-        line-height: 1.5rem; 
+    font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    line-height: 1.5rem; 
   }
-
+  .about-section h2 {
+    font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    line-height: 1.5rem; 
+}
   .about-section p {
     font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
     font-size: 1.2rem;
@@ -72,6 +76,12 @@ font-weight: bold;
   .portfolio-section {
     padding: 10rem 0;
   }
+  .portfolio-section h1 {
+    font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    line-height: 1.5rem; 
+      }
+  
   .portfolio-section .featured-text {
     font-family: 'Fira Sans Condensed', sans-serif,  Georgia, 'Times New Roman', Times, serif;
     padding: 2rem;
@@ -109,4 +119,33 @@ font-weight: bold;
     border-color: #a16469;
     border-width: 0.25rem;
     width: 30%;
+  }
+  .contact-section {
+    padding-top: 15rem;
+    padding-bottom:5rem;
+  }
+  .contact-section h1 {
+    font-family:'Lobster', cursive, Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    line-height: 1.5rem; 
+      }
+  .contact-section .card {
+    border: 0;
+    border-bottom: 0.25rem solid #a16469;
+  }
+
+  .contact-section .card h4 {
+    font-size: 1rem;
+    font-family: 'Fira Sans Condensed', sans-serif, Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+  }
+  .contact-section .card hr {
+    border-color:  #a16469;
+    border-width: 0.25rem;
+    width: 3rem;
+  }
+  
+  .footer {
+    padding: 5rem 0;
   }
