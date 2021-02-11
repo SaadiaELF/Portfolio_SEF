@@ -87,7 +87,7 @@ This file is used to create a dynamic website using functions to create a simple
 -----------------------------------------------------------------------------------------------------------------------
 ## 7. Demonstration :
 Desktop screenshots :
-![Screenshot01](./Assets/Screenshot-01-Desktop.JPG)
+![Screenshot01](./Assets/Screenshot-01-Desktop.JPG | width=100)
 ![Screenshot02](./Assets/Screenshot-02-Desktop.JPG)
 ![Screenshot03](./Assets/Screenshot-03-Desktop.JPG)
 ![Screenshot04](./Assets/Screenshot-04-Desktop.JPG)
