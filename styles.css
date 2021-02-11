@@ -5,9 +5,9 @@ body {
     background-color: #ecedf1;
 }
 nav {
-opacity: 90%;
-font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
-font-weight: bold;
+    opacity: 90%;
+    font-family: 'Slabo 27px', serif, Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 .masthead {
     position: relative;
@@ -37,7 +37,6 @@ font-weight: bold;
     margin: 0;
     padding: 0;
 }  
-
 .social-icons li {
     display: inline-block;
     padding: 10px 30px;
@@ -45,7 +44,6 @@ font-weight: bold;
 .fab {
     color :black;
 }
-
 @media (max-width: 768px) {
     .masthead h1 {
       font-size: 2.5rem;
@@ -81,7 +79,6 @@ font-weight: bold;
 .img-thumbnail {
     background-color: #cacaca;
 }
-
 @media (max-width: 768px) {
     .about-section {
         padding-top: 15rem;
@@ -123,7 +120,6 @@ font-weight: bold;
 .links-btns li {
     display: inline-block;
 }
-
 .btn {
     width: 90px;
 }
@@ -182,10 +178,10 @@ footer {
     padding: 0.6rem 0;
     background-color: rgb(212, 212, 212);
     margin-bottom: 0;
-  }
-  footer p {
+}
+footer p {
     font-family: 'Fira Sans Condensed', sans-serif, Georgia, 'Times New Roman', Times, serif;
     font-size: 1rem;
     line-height: 1.5rem; 
     margin-bottom: 0;
-  }
+}
