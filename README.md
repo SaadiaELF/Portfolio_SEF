@@ -86,9 +86,16 @@ This file is used to create a dynamic website using functions to create a simple
 
 -----------------------------------------------------------------------------------------------------------------------
 ## 7. Demonstration :
-![Screenshot01](./Assets/Screenshot01.JPG)
-![Demo](./Assets/Demo.gif)
-
+Desktop screenshots :
+![Screenshot01](./Assets/Screenshot-01-Desktop.JPG)
+![Screenshot02](./Assets/Screenshot-02-Desktop.JPG)
+![Screenshot03](./Assets/Screenshot-03-Desktop.JPG)
+![Screenshot04](./Assets/Screenshot-04-Desktop.JPG)
+Mobile screenshots :
+![Screenshot01](./Assets/Screenshot-01-Mobile.PNG)
+![Screenshot02](./Assets/Screenshot-02-Mobile.PNG)
+![Screenshot03](./Assets/Screenshot-03-Mobile.PNG)
+![Screenshot04](./Assets/Screenshot-04-Mobile.PNG)
 -----------------------------------------------------------------------------------------------------------------------
 
 ## 8. URLs
