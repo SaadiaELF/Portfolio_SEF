@@ -92,7 +92,7 @@ Desktop screenshots :
 ![Screenshot03](./Assets/Screenshot-03-Desktop.JPG)
 ![Screenshot04](./Assets/Screenshot-04-Desktop.JPG)
 Mobile screenshots :
-![Screenshot01](<img src="./Assets/Screenshot-01-Mobile.PNG" width="100" height="100">)
+(<img src="./Assets/Screenshot-01-Mobile.PNG" width="50%">)
 ![Screenshot02](./Assets/Screenshot-02-Mobile.PNG)
 ![Screenshot03](./Assets/Screenshot-03-Mobile.PNG)
 ![Screenshot04](./Assets/Screenshot-04-Mobile.PNG)
