@@ -93,10 +93,10 @@ Desktop screenshots :
 ![Screenshot04](./Assets/Screenshot-04-Desktop.JPG)
 Mobile screenshots :
 <br>
-<img src="./Assets/Screenshot-01-Mobile.PNG" width="25%">
-<img src="./Assets/Screenshot-02-Mobile.PNG" width="25%">
-<img src="./Assets/Screenshot-03-Mobile.PNG" width="25%">
-<img src="./Assets/Screenshot-04-Mobile.PNG" width="25%">
+<img src="./Assets/Screenshot-01-Mobile.PNG" width="20%">
+<img src="./Assets/Screenshot-02-Mobile.PNG" width="20%">
+<img src="./Assets/Screenshot-03-Mobile.PNG" width="20%">
+<img src="./Assets/Screenshot-04-Mobile.PNG" width="20%">
 -----------------------------------------------------------------------------------------------------------------------
 
 ## 8. URLs
