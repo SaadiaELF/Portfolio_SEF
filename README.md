@@ -1,25 +1,25 @@
-# Portfolio_SEF
+# Portfolio_SEF  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -----------------------------------------------------------------------------------------------------------------------
 Table of content :
 
-1. The purpose
-2. The method
-3. HTML file
-4. CSS file
-5. Bootsrap framework
-6. JQuery file
-7. Demonstration
-8. URLs 
+* [Purpose](#Purpose)
+* [Method](#Method)
+* [HTML file](#HTML-file)
+* [CSS file](#CSS-file) 
+* [Bootsrap framework](#Bootsrap-framework) 
+* [JQuery file](#JQuery-file) 
+* [Demonstration](#Demonstration)
+* [URLs](#URLs) 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 1. The purpose :
+## Purpose :
 
 The main purpose of this project is to build an updated portfolio that will run in the browser and feature dynamically updated HTML and CSS .
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 2. The method : 
+## Method : 
 
     This website is created using the following languages, libraries and software.
 
@@ -32,7 +32,7 @@ The main purpose of this project is to build an updated portfolio that will run 
    
 -----------------------------------------------------------------------------------------------------------------------
 
-## 3. HTML file : 
+## HTML file : 
     
     This file is created according to the standards.
 
@@ -43,7 +43,7 @@ The main purpose of this project is to build an updated portfolio that will run 
     * Commenting the code
 -----------------------------------------------------------------------------------------------------------------------
 
-## 4. CSS file : 
+## CSS file : 
 
 This file is used to personalise the styles by creating new classes and ids.
 
@@ -61,7 +61,7 @@ This file is used to personalise the styles by creating new classes and ids.
     * media query
 -----------------------------------------------------------------------------------------------------------------------
 
-## 5. Bootsrap framework : 
+## Bootsrap framework : 
 
 This open-source framework is used to style the website and make it reponsive. 
 
@@ -76,7 +76,7 @@ This open-source framework is used to style the website and make it reponsive.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 6. JQuery file : 
+## JQuery file : 
 
 This file is used to create a dynamic website using functions to create a simple calendar.
 
@@ -85,7 +85,8 @@ This file is used to create a dynamic website using functions to create a simple
     * HTML DOM :  .on() Method, .collapse() Method
 
 -----------------------------------------------------------------------------------------------------------------------
-## 7. Demonstration :
+
+## Demonstration :
 Desktop screenshots :
 ![Screenshot01](./Assets/Screenshot-01-Desktop.JPG)
 ![Screenshot02](./Assets/Screenshot-02-Desktop.JPG)
@@ -99,7 +100,7 @@ Mobile screenshots :
 <img src="./Assets/Screenshot-04-Mobile.PNG" width="20%">
 -----------------------------------------------------------------------------------------------------------------------
 
-## 8. URLs
+## URLs
 
 * The URL of the deployed application : "https://saadiaelf.github.io/Portfolio_SEF/"
 
